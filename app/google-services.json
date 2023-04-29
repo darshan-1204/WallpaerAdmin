@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671272756652",
+    "project_id": "wallpaerapp-2fca3",
+    "storage_bucket": "wallpaerapp-2fca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671272756652:android:8c70802f4d4057b3944609",
+        "android_client_info": {
+          "package_name": "com.example.wallpaeradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671272756652-7q61thal0uuug1higuggba44cbfoso5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7pyqYFeq0CvALynwLXTqJ0M1UjxtFo1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671272756652-7q61thal0uuug1higuggba44cbfoso5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
